@@ -1,0 +1,14 @@
+.coaching {
+  background: cornflowerblue;
+}
+.coaching p {
+  font-size: 30px;
+  padding: 80px;
+  text-align: center;
+}
+.coaching__quees {
+  color: cornsilk;
+}
+.coaching__quees h3 {
+  font-size: 400px;
+}
